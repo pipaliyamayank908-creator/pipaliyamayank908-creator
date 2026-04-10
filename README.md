@@ -1,6 +1,6 @@
  # 💫 About Me:
 BCA Student | Web Developer |  Full Stack Developer 
-I’m a backend-focused developer building real-world CRUD systems with authentication and database integration.
+ 
 
  
  
